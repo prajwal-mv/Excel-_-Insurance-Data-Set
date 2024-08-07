@@ -1,10 +1,7 @@
 # Excel-_-Insurance-Data-Set
 Macros
 
-
-We have first input formula
-
-
+We have first input formula and applied charts
 
 
 Please find the Insurance Gsheet below
